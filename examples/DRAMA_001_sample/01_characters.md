@@ -1,61 +1,21 @@
 # Characters — DRAMA_001 Sample
 
-## Character 1 — Liana
+## Liana
 
-**Role:**  
-Main character
+**Role:** Main character / hidden heiress
+**Personality:** Calm, patient, intelligent, and hard to provoke.
+**Motivation:** Test whether her fiancé’s family accepts her sincerely.
+**Secret:** Heir to the hotel group.
+**Emotional Function:** The underestimated protagonist whose reveal delivers payoff.
+**Basic Visual Direction:** Asian woman, 24, long neat black hair, calm face, simple white dress, understated elegance.
+**Wardrobe Continuity:** The same simple white dress throughout Episode 1.
 
-**Archetype:**  
-Hidden Heiress
+## Bu Ratna
 
-**Personality:**  
-Tenang, sabar, cerdas, tidak mudah terpancing.
-
-**Motivation:**  
-Ingin melihat apakah keluarga calon tunangannya menerima dia dengan tulus.
-
-**Weakness:**  
-Terlalu sering menyembunyikan identitas aslinya.
-
-**Secret:**  
-Dia adalah pewaris grup hotel besar.
-
-**Emotional Function:**  
-Underdog yang akhirnya membuat penonton merasa puas saat kebenaran terbongkar.
-
-**Relationship Dynamics:**  
-Diremehkan oleh keluarga calon tunangannya, tetapi diam-diam dihormati oleh staf hotel.
-
-**Basic Visual Notes:**  
-Wanita Asia muda, 24 tahun, wajah kalem, rambut hitam panjang rapi, dress putih sederhana, terlihat rendah hati tapi elegan.
-
----
-
-## Character 2 — Bu Ratna
-
-**Role:**  
-Antagonist
-
-**Archetype:**  
-Arrogant Rich Mother
-
-**Personality:**  
-Sombong, judgemental, kasar, sangat peduli status sosial.
-
-**Motivation:**  
-Ingin anaknya menikah dengan perempuan dari keluarga kaya.
-
-**Weakness:**  
-Terlalu cepat menilai orang dari penampilan.
-
-**Secret:**  
-Tidak tahu bahwa Liana jauh lebih berkuasa daripada keluarganya.
-
-**Emotional Function:**  
-Membuat penonton marah dan menunggu momen pembalasan.
-
-**Relationship Dynamics:**  
-Merendahkan Liana di depan umum.
-
-**Basic Visual Notes:**  
-Wanita Asia usia 50-an, berpakaian mewah, ekspresi dingin, perhiasan mahal, gestur dominan.
+**Role:** Antagonist / arrogant rich mother
+**Personality:** Status-obsessed, judgmental, dominant.
+**Motivation:** Make her son marry into visible wealth.
+**Secret:** She does not know Liana outranks her family.
+**Emotional Function:** Makes the audience want a public reversal.
+**Basic Visual Direction:** Asian woman in her 50s, polished short dark hair, expensive dark-green formal outfit, restrained jewelry, cold gaze.
+**Wardrobe Continuity:** Same formal outfit and jewelry throughout Episode 1.

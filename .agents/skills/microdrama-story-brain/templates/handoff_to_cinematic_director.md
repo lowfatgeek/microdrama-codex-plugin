@@ -1,58 +1,13 @@
-# Handoff to Microdrama Cinematic Director Template
+# Legacy Hand-off for Cinematic Director
 
-Use this template when the story/script is approved and ready to move to Skill 2.
+Before visual planning, send this approved story package to Character Sheet Designer to create and approve visual references. Then attach its handoff to Cinematic Director.
 
-## Output Format
+**Story Title:** ...
+**Logline:** ...
+**Episode:** ...
+**Approved Script:** ...
+**Characters and Basic Visual Direction:** ...
+**Wardrobe Continuity:** ...
+**Key Emotional Beats:** ...
 
-```markdown
-# Hand-off Package for Microdrama Cinematic Director
-
-## Story Title
-...
-
-## Logline
-...
-
-## Episode
-Episode ...
-
-## Episode Function
-...
-
-## Approved Script
-...
-
-## Key Emotional Beats
-1. ...
-2. ...
-3. ...
-4. ...
-
-## Characters Involved
-- Character 1:
-- Character 2:
-- Character 3:
-
-## Important Dialogue
-- "..."
-- "..."
-
-## Cliffhanger / Payoff
-...
-
-## Continuity Notes
-...
-
-## Restrictions
-- Do not change the core story.
-- Do not rewrite the script unless requested.
-- Convert this script into cinematic blocks, shot plan, storyboard prompts, and Seedance prompts.
-```
-
-## Required Rules
-
-- Keep this package concise.
-- This package is for Skill 2 only.
-- Do not include storyboard prompts.
-- Do not include Seedance prompts.
-- Do not include camera shot plans.
+Do not create shot plans or video prompts in this stage.

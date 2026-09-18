@@ -63,5 +63,5 @@ logs/
 # Keep empty folders if needed
 !outputs/.gitkeep
 !examples/**/*.md
-!skills/**/*.md
+!.agents/skills/**/*.md
 !templates/**/*.md

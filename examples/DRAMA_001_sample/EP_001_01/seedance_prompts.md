@@ -2,6 +2,8 @@
 
 ## Seedance Prompt — Block A
 
+Model: Seedance 2.0. Production profile: `legacy-15s`.
+
 Duration: 15 seconds.  
 Aspect ratio: vertical 9:16.  
 Mode: image-to-video.  
@@ -44,6 +46,8 @@ Dialogue/Narration: Bu Ratna says in Indonesian: "Kamu yakin datang ke tempat se
 
 ## Seedance Prompt — Block B
 
+Model: Seedance 2.0. Production profile: `legacy-15s`.
+
 Duration: 15 seconds.  
 Aspect ratio: vertical 9:16.  
 Mode: image-to-video.  
@@ -85,6 +89,8 @@ Dialogue/Narration: Bu Ratna says in Indonesian: "Bukan perempuan yang cuma nump
 ---
 
 ## Seedance Prompt — Block C
+
+Model: Seedance 2.0. Production profile: `legacy-15s`.
 
 Duration: 15 seconds.  
 Aspect ratio: vertical 9:16.  

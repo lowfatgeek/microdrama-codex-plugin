@@ -1,61 +1,18 @@
-# Missing Items Report Template
-
-Use this template when the user asks for packaging but some required materials are missing.
-
-## Output Format
-
-```markdown
 # Missing Items Report
 
-I cannot create the final prompt pack yet because the following items are missing:
+## Missing Story Material
 
-## Missing Story Materials
-- [ ] Story title
-- [ ] Logline
-- [ ] 3-episode concept
-- [ ] Character psychology
-- [ ] Character sheet prompts
+- [ ] Concept / character psychology / script: ...
 
-## Missing Episode 1 Materials
-- [ ] Script
-- [ ] Shot plan
-- [ ] Storyboard Prompt Block A
-- [ ] Storyboard Prompt Block B
-- [ ] Storyboard Prompt Block C
-- [ ] Seedance Prompt Block A
-- [ ] Seedance Prompt Block B
-- [ ] Seedance Prompt Block C
+## Missing Character References
 
-## Missing Episode 2 Materials
-- [ ] Script
-- [ ] Shot plan
-- [ ] Storyboard Prompt Block A
-- [ ] Storyboard Prompt Block B
-- [ ] Storyboard Prompt Block C
-- [ ] Seedance Prompt Block A
-- [ ] Seedance Prompt Block B
-- [ ] Seedance Prompt Block C
+- [ ] Character-sheet prompt: ...
+- [ ] Generated or approved reference image: ...
 
-## Missing Episode 3 Materials
-- [ ] Script
-- [ ] Shot plan
-- [ ] Storyboard Prompt Block A
-- [ ] Storyboard Prompt Block B
-- [ ] Storyboard Prompt Block C
-- [ ] Seedance Prompt Block A
-- [ ] Seedance Prompt Block B
-- [ ] Seedance Prompt Block C
+## Missing Episode Material
 
-## Recommended Next Step
-Ask the relevant skill to generate the missing items:
+- [ ] Production profile and generation plan: ...
+- [ ] Unit board prompt: ...
+- [ ] Unit Seedance prompt: ...
 
-- Story/script missing → Microdrama Story Brain
-- Shot plan/storyboard/Seedance prompt missing → Microdrama Cinematic Director
-- Packaging/format issue → Microdrama Prompt Packager
-```
-
-## Rules
-
-- Do not invent missing major content.
-- Clearly identify what is missing.
-- Tell the user which skill should generate it.
+Do not invent missing material. Route story work to Story Brain, visual identity work to Character Sheet Designer, visual/video planning to Cinematic Director, and formatting-only work to Prompt Packager.
