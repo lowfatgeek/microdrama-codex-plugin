@@ -21,10 +21,11 @@ Create `02_character_sheet_prompts.md` with one English GPT Image 2.5 prompt for
 - an identity lock: age range, face, hair, body proportions, wardrobe, accessories, and posture;
 - a vertical 9:16 realistic live-action Asian microdrama character-sheet composition, including full body and useful expression/angle coverage;
 - an explicit wardrobe/identity continuity instruction;
-- exclusions: no text, watermark, duplicate person, unapproved outfit, cartoon, manga, or comic look;
+- one clean, legible character-name label as the only permitted text;
+- exclusions: no other text, watermark, duplicate person, unapproved outfit, cartoon, manga, or comic look;
 - manual generation and approval checklist.
 
-Use prompt language that is concrete but does not over-specify unapproved story details. Use GPT Image 2.5 as the recommended image model. The user chooses available variant and quality in their image-generation surface.
+Use only visible traits in the image prompt. Do not include backstory, social status, motivation, relationship history, plot events, episode numbers, or internal character context. Translate an approved emotion into a visible expression only when that expression is one of the requested sheet views. Keep story role as Markdown metadata outside the prompt. Use GPT Image 2.5 as the recommended image model. The user chooses available variant and quality in their image-generation surface.
 
 ## Approval gate
 

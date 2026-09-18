@@ -52,7 +52,7 @@ Each character sheet prompt must establish:
 - face and age range;
 - hair, wardrobe, accessories, and body proportions;
 - full-body view plus useful expression/angle coverage;
-- visual identity lock and exclusions (no text, watermark, duplicate subject, or unapproved wardrobe);
+- visual identity lock and exclusions (only the character-name label as text; no watermark, duplicate subject, or unapproved wardrobe);
 - the approved reference image filename or placeholder.
 
 Storyboard prompts must name the approved sheets that the user should attach. A character description may be used only as a temporary fallback when an image is not available, and the output must explicitly flag that continuity risk.
@@ -85,7 +85,7 @@ outputs/
 
 ### GPT Image 2.5
 
-Use GPT Image 2.5 for character sheets and storyboard/sequence boards. Prompts must be English, vertical 9:16, realistic live-action Asian microdrama frames, with character-reference instructions and no comic, manga, cartoon, speech bubbles, unwanted text, or watermark. The user selects the appropriate GPT Image 2.5 variant and quality in their generation surface; this repository does not make API calls.
+Use GPT Image 2.5 for character sheets and storyboard/sequence boards. Prompts must be English, vertical 9:16, realistic live-action Asian microdrama frames, with character-reference instructions and no comic, manga, cartoon, speech bubbles, unwanted text, or watermark. Character sheets are the exception: they must show one clean, correctly spelled character-name label and no other text. The user selects the appropriate GPT Image 2.5 variant and quality in their generation surface; this repository does not make API calls.
 
 ### Seedance
 
