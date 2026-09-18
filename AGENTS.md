@@ -85,7 +85,7 @@ outputs/
 
 ### GPT Image 2.5
 
-Use GPT Image 2.5 for character sheets and storyboard/sequence boards. Prompts must be English, vertical 9:16, realistic live-action Asian microdrama frames, with character-reference instructions and no comic, manga, cartoon, speech bubbles, unwanted text, or watermark. Character sheets are the exception: they must show one clean, correctly spelled character-name label and no other text. The user selects the appropriate GPT Image 2.5 variant and quality in their generation surface; this repository does not make API calls.
+Use GPT Image 2.5 for character sheets and storyboard/sequence boards. Prompts must be English, vertical 9:16, realistic live-action Asian microdrama frames, with character-reference instructions and no comic, manga, cartoon, speech bubbles, unwanted text, or watermark. Character sheets must show one clean, correctly spelled character-name label and no other text. Storyboard/sequence boards must show one compact, exact shot time-range label per panel (for example, `0–3s`) and no other text. The user selects the appropriate GPT Image 2.5 variant and quality in their generation surface; this repository does not make API calls.
 
 ### Seedance
 

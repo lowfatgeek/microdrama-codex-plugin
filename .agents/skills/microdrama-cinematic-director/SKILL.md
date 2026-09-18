@@ -23,7 +23,7 @@ Do not infer arbitrary durations. `long-form-30s` is appropriate only for a cohe
 
 1. `generation_plan.md`: selected model/profile, unit boundaries, total episode duration, unit purpose, reference assets, and continuity handoff.
 2. `shot_plan.md`: each generation unit’s timed shots, visual action, emotion, framing, and character focus. A 15s unit normally has five 3-second shots. A 30s unit has three internal beats and a sensible shot count; it is not two unrelated units joined together.
-3. `storyboard_prompts.md`: one English GPT Image 2.5 storyboard or sequence-board prompt per generation unit. Panel count must equal shot count. Name the character sheets the user must attach.
+3. `storyboard_prompts.md`: one English GPT Image 2.5 storyboard or sequence-board prompt per generation unit. Panel count must equal shot count. Keep project, episode, and generation-unit metadata outside the image prompt. Within the prompt, identify each character once as `Character: match filename.ext, [visible identity lock]`; do not add a separate collective attachment list or repeat the same filename. Each panel must visibly show its exact shot time range as its only text.
 4. `seedance_prompts.md`: one English, timed, sound-on prompt per unit. State model, profile, exact unit duration, 9:16, image-to-video, primary board reference, Indonesian dialogue/narration, ambience, music, SFX, and continuity constraints.
 
 ## Continuity and fallback

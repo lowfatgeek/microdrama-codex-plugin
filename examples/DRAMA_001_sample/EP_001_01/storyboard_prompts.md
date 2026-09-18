@@ -2,115 +2,60 @@
 
 ## Storyboard Prompt — Block A
 
-**Reference Images to Attach:**  
-- Character sheet: Liana
-- Character sheet: Bu Ratna
-
-**Prompt:**
-
-Create a vertical 9:16 cinematic storyboard collage with 5 panels based on the shot sequence below.
-
-Use the provided character sheet reference images to maintain consistent face, hairstyle, outfit, age, body proportions, and emotional expression.
-
-Visual style:
-realistic Asian vertical microdrama film frames, Chinese microdrama cinematic style, emotional close-ups, dramatic but grounded luxury restaurant lighting, cinematic depth of field, strong social-status contrast, realistic acting, not comic, not manga, not cartoon.
-
-Storyboard layout:
-- cinematic collage
-- chronological visual progression
-- each panel clearly represents one shot
-- panel count must match the shot count
-- no speech bubbles
-- no unnecessary text labels
-- no manga panels
-- no comic-book rendering
-- no cartoon look
+```text
+Create one vertical 9:16 cinematic storyboard composite with exactly five chronological panels, read left to right and top to bottom. Use clean narrow gutters. Do not add a title, panel numbers, arrows, subtitles, or internal sub-panels.
 
 Character continuity:
-Liana is a calm 24-year-old Asian woman with long neat black hair and a simple white dress. Bu Ratna is an arrogant wealthy Asian woman in her 50s wearing elegant expensive clothing and jewelry.
+- Liana: match liana_reference.png, calm 24-year-old Asian woman with long neat black hair and the same simple white dress.
+- Bu Ratna: match bu_ratna_reference.png, wealthy Asian woman in her 50s with elegant expensive clothing and jewelry.
 
-Shot sequence:
-Panel 1: Liana enters a luxurious hotel restaurant wearing a simple white dress while the room looks elegant and expensive.
-Panel 2: Rich restaurant guests turn their heads and judge Liana’s modest appearance.
-Panel 3: Close-up of Liana’s calm face as she stays composed under pressure.
-Panel 4: Bu Ratna stands from the table and scans Liana from head to toe with contempt.
-Panel 5: Bu Ratna begins insulting Liana in front of everyone, while Liana stands silently.
+Luxury hotel restaurant with warm dramatic lighting, realistic live-action Asian microdrama film frames, emotional close-ups, cinematic depth of field, and grounded acting. Each panel must display one small clean corner label with its exact time range; that label is the only allowed visible text.
 
-Composition:
-vertical 9:16, cinematic framing, strong emotional readability, realistic facial expressions, clear body language.
+Panel 1 — visible label: "0–3s": Liana enters the luxurious hotel restaurant in a simple white dress.
+Panel 2 — visible label: "3–6s": Rich guests turn to judge Liana’s modest appearance.
+Panel 3 — visible label: "6–9s": Close-up of Liana remaining calm under pressure.
+Panel 4 — visible label: "9–12s": Bu Ratna stands and scans Liana from head to toe with contempt.
+Panel 5 — visible label: "12–15s": Bu Ratna begins insulting Liana while Liana stands silently.
 
----
+No speech bubbles, watermark, logo, caption, title, panel number, legible background text, comic, manga, anime, cartoon, duplicate character in a panel, or wardrobe change. Repetition across chronological panels is intentional.
+```
 
 ## Storyboard Prompt — Block B
 
-**Reference Images to Attach:**  
-- Character sheet: Liana
-- Character sheet: Bu Ratna
-
-**Prompt:**
-
-Create a vertical 9:16 cinematic storyboard collage with 5 panels based on the shot sequence below.
-
-Use the provided character sheet reference images to maintain consistent face, hairstyle, outfit, age, body proportions, and emotional expression.
-
-Visual style:
-realistic Asian vertical microdrama film frames, Chinese microdrama cinematic style, emotional close-ups, dramatic luxury restaurant lighting, cinematic depth of field, social-status contrast, realistic acting, not comic, not manga, not cartoon.
-
-Storyboard layout:
-- cinematic collage
-- chronological visual progression
-- each panel clearly represents one shot
-- panel count must match the shot count
-- no speech bubbles
-- no unnecessary text labels
+```text
+Create one vertical 9:16 cinematic storyboard composite with exactly five chronological panels, read left to right and top to bottom. Use clean narrow gutters. Do not add a title, panel numbers, arrows, subtitles, or internal sub-panels.
 
 Character continuity:
-Liana remains calm but hurt, wearing the same simple white dress. Bu Ratna remains dominant and arrogant, wearing expensive elegant clothing.
+- Liana: match liana_reference.png, same long neat black hair and simple white dress; controlled pain without changing identity or wardrobe.
+- Bu Ratna: match bu_ratna_reference.png, same expensive elegant clothing and dominant posture.
 
-Shot sequence:
-Panel 1: Bu Ratna points at Liana’s clothes while speaking harshly in front of the table.
-Panel 2: Liana’s fiancé looks down in embarrassment, refusing to defend her.
-Panel 3: Rich guests whisper and laugh softly at Liana.
-Panel 4: Close-up of Liana’s hand clenching gently as she holds back pain.
-Panel 5: Bu Ratna tells Liana she is not worthy to join their family, dominating the frame.
+Continue in the same luxury hotel restaurant with warm dramatic lighting, realistic live-action Asian microdrama film frames, emotional close-ups, and grounded acting. Each panel must display one small clean corner label with its exact time range; that label is the only allowed visible text.
 
-Composition:
-vertical 9:16, cinematic framing, emotional tension, realistic acting.
+Panel 1 — visible label: "15–18s": Bu Ratna points at Liana’s clothes and speaks harshly.
+Panel 2 — visible label: "18–21s": Liana’s fiancé looks down, embarrassed and silent.
+Panel 3 — visible label: "21–24s": Rich guests whisper and laugh softly.
+Panel 4 — visible label: "24–27s": Close-up of Liana’s hand gently clenching as she holds back pain.
+Panel 5 — visible label: "27–30s": Bu Ratna dominates the frame while telling Liana she is not worthy of the family.
 
----
+No speech bubbles, watermark, logo, caption, title, panel number, legible background text, comic, manga, anime, cartoon, duplicate character in a panel, or wardrobe change. Repetition across chronological panels is intentional.
+```
 
 ## Storyboard Prompt — Block C
 
-**Reference Images to Attach:**  
-- Character sheet: Liana
-- Character sheet: Bu Ratna
-
-**Prompt:**
-
-Create a vertical 9:16 cinematic storyboard collage with 5 panels based on the shot sequence below.
-
-Use the provided character sheet reference images to maintain consistent face, hairstyle, outfit, age, body proportions, and emotional expression.
-
-Visual style:
-realistic Asian vertical microdrama film frames, Chinese microdrama cinematic style, dramatic luxury restaurant lighting, emotional close-ups, cinematic depth of field, grounded realistic acting, not comic, not manga, not cartoon.
-
-Storyboard layout:
-- cinematic collage
-- chronological visual progression
-- each panel clearly represents one shot
-- panel count must match the shot count
-- no speech bubbles
-- no unnecessary text labels
+```text
+Create one vertical 9:16 cinematic storyboard composite with exactly five chronological panels, read left to right and top to bottom. Use clean narrow gutters. Do not add a title, panel numbers, arrows, subtitles, or internal sub-panels.
 
 Character continuity:
-Liana stays calm and quietly powerful. Bu Ratna remains arrogant until the hotel manager arrives. The hotel manager looks formal, professional, and panicked.
+- Liana: match liana_reference.png, same calm face, long neat black hair, and simple white dress.
+- Bu Ratna: match bu_ratna_reference.png, same elegant clothing and jewelry, shifting from arrogance to confusion.
 
-Shot sequence:
-Panel 1: Bu Ratna points toward the exit, publicly ordering Liana to leave the restaurant.
-Panel 2: Close-up of Liana looking calm and strong, not crying.
-Panel 3: The restaurant door opens quickly as a hotel manager rushes inside.
-Panel 4: Bu Ratna and the guests look shocked and confused by the manager’s panic.
-Panel 5: The hotel manager bows slightly toward Liana and respectfully addresses her, creating a mysterious reveal.
+Continue in the same luxury hotel restaurant with warm dramatic lighting, realistic live-action Asian microdrama film frames, clear cliffhanger acting, and cinematic depth of field. Each panel must display one small clean corner label with its exact time range; that label is the only allowed visible text.
 
-Composition:
-vertical 9:16, cinematic framing, strong cliffhanger energy, realistic facial expressions.
+Panel 1 — visible label: "30–33s": Bu Ratna points toward the exit and orders Liana to leave.
+Panel 2 — visible label: "33–36s": Close-up of Liana looking calm and quietly strong.
+Panel 3 — visible label: "36–39s": The restaurant door opens as a formal hotel manager rushes inside.
+Panel 4 — visible label: "39–42s": Bu Ratna and the guests react with shock and confusion.
+Panel 5 — visible label: "42–45s": The manager bows slightly toward Liana, creating a mysterious reveal.
+
+No speech bubbles, watermark, logo, caption, title, panel number, legible background text, comic, manga, anime, cartoon, duplicate character in a panel, or wardrobe change. Repetition across chronological panels is intentional.
+```
