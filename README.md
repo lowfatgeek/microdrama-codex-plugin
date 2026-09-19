@@ -36,6 +36,33 @@ Choose a profile before visual planning:
 
 The production specification defaults to three 45-second episodes, but can set any positive `episode_count` and one duration for all episodes or duration overrides per episode. Durations must be multiples of 15 seconds. The workflow never rounds a requested duration silently. Use `long-form-30s` only where each 30-second unit is a coherent sequence.
 
+## Flexible story configuration
+
+The default remains three 45-second Shorts, but users can configure the production shape before Story Brain creates the episode arc. Record the chosen values in `production_spec.md`.
+
+```text
+episode_count: 5
+default_episode_duration_seconds: 60
+video_model: Seedance 2.5
+production_profile: long-form-30s
+```
+
+This produces five Shorts. With `long-form-30s`, each 60-second episode uses `30s + 30s`, so the story needs 10 storyboard prompts and 10 Seedance prompts.
+
+Set a duration override only when an individual episode needs a different runtime:
+
+```text
+episode_count: 4
+default_episode_duration_seconds: 45
+episode_duration_overrides:
+  EP_001_02: 60
+  EP_001_03: 60
+```
+
+All durations must be positive multiples of 15 seconds. For `legacy-15s` and `controlled-15s`, prompt count per episode is `duration ÷ 15`. For `long-form-30s`, use as many 30-second units as possible, followed by one 15-second unit when needed. Total storyboard prompts and total Seedance prompts each equal the total number of generation units across all episodes.
+
+The story arc adapts too: one episode compresses hook through payoff; two episodes use escalation then payoff; three or more episodes use the first for hook/humiliation, the middle episodes for escalation and reversals, and the final episode for reveal/payoff.
+
 ## Recommended manual flow
 
 1. Use Story Brain to set the production specification and approve an episode-arc plan, character psychology, and one episode script at a time.
