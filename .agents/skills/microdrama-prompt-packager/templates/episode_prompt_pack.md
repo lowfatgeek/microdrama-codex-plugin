@@ -1,7 +1,7 @@
 # Episode Prompt Pack — [Episode ID]
 
 **Video model/profile:** ...
-**Episode duration:** approximately 45 seconds
+**Episode duration:** [configured duration] seconds
 **Character-sheet references:** ...
 
 ## Script

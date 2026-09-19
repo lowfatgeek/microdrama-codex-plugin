@@ -6,6 +6,10 @@
 **Image model:** GPT Image 2.5
 **Video model/profile:** ...
 
+## Production Specification
+
+[Episode count, duration per episode, unit plan, and calculated prompt totals]
+
 ## Character Sheet Prompts and References
 
 [Approved prompts, filenames, and any unresolved-reference warning]

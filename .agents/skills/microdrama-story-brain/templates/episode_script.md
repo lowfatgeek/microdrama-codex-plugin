@@ -1,11 +1,11 @@
 # Episode Script Template
 
-Use this template when writing a 45-second episode script.
+Use this template when writing an episode script at its configured duration. The default duration is 45 seconds.
 
 ## Output Format
 
 ```markdown
-# Episode [Number] Script — 45 Detik
+# Episode [Number] Script — [Configured Duration] Detik
 
 ## Judul Episode
 ...
@@ -15,49 +15,43 @@ Use this template when writing a 45-second episode script.
 
 ---
 
-## [0–5s] Hook
+## [0–…s] Opening Beat
 **Narasi/Dialog:**  
 ...
 
 ---
 
-## [5–15s] Setup / Humiliation / Conflict
+## […–…s] Setup / Humiliation / Conflict
 **Narasi/Dialog:**  
 ...
 
 ---
 
-## [15–30s] Escalation
+## […–…s] Escalation
 **Narasi/Dialog:**  
 ...
 
 ---
 
-## [30–40s] Emotional Turn / Mystery / Reveal Setup
+## […–…s] Emotional Turn / Mystery / Reveal Setup
 **Narasi/Dialog:**  
 ...
 
 ---
 
-## [40–45s] Cliffhanger / Payoff
+## […–end] Cliffhanger / Payoff
 **Narasi/Dialog:**  
 ...
 ```
 
 ## Episode Function Rules
 
-### Episode 1
-- Hook + Humiliation.
-- Must end with mini cliffhanger.
+### Default Three-Episode Arc
+- Episode 1: Hook + Humiliation; end with curiosity.
+- Episode 2: Conflict + Mystery; end with a stronger cliffhanger.
+- Episode 3: Reveal + Revenge + Payoff.
 
-### Episode 2
-- Conflict + Mystery.
-- Must escalate tension.
-- Must end with stronger cliffhanger.
-
-### Episode 3
-- Reveal + Revenge + Payoff.
-- Must deliver emotional satisfaction.
+For any other configured episode count, follow the approved episode-arc plan in `production_spec.md` and `00_story_concept.md`.
 
 ## Script Rules
 

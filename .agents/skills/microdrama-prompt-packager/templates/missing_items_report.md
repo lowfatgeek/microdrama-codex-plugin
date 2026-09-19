@@ -2,6 +2,7 @@
 
 ## Missing Story Material
 
+- [ ] Production specification: episode count, durations, profile, and calculated unit totals.
 - [ ] Concept / character psychology / script: ...
 
 ## Missing Character References

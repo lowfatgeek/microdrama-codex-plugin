@@ -11,10 +11,8 @@ The repository produces Markdown only. Generate images and videos manually in yo
 ## What one story contains
 
 ```text
-1 story → 3 episodes → approximately 45 seconds each
-Episode 1: Hook + Humiliation
-Episode 2: Conflict + Mystery
-Episode 3: Reveal + Revenge + Payoff
+Default: 1 story → 3 episodes → approximately 45 seconds each
+Default 3-episode arc: Hook + Humiliation → Conflict + Mystery → Reveal + Revenge + Payoff
 ```
 
 ## Skills
@@ -30,17 +28,17 @@ Episode 3: Reveal + Revenge + Payoff
 
 Choose a profile before visual planning:
 
-| Profile | Model | Episode plan |
+| Profile | Model | Unit rule |
 | --- | --- | --- |
-| `legacy-15s` | Seedance 2.0 | 15s + 15s + 15s |
-| `controlled-15s` | Seedance 2.5 | 15s + 15s + 15s |
-| `long-form-30s` | Seedance 2.5 | 30s + 15s |
+| `legacy-15s` | Seedance 2.0 | One 15s unit for every 15 seconds |
+| `controlled-15s` | Seedance 2.5 | One 15s unit for every 15 seconds |
+| `long-form-30s` | Seedance 2.5 | Maximize 30s units; use a final 15s unit if needed |
 
-Use `long-form-30s` only where the first 30 seconds are a coherent sequence. It has timed internal beats and a sequence board, rather than two unrelated scenes placed together. Use either 15- or 30-second units; do not invent a duration outside the selected model’s documented capability.
+The production specification defaults to three 45-second episodes, but can set any positive `episode_count` and one duration for all episodes or duration overrides per episode. Durations must be multiples of 15 seconds. The workflow never rounds a requested duration silently. Use `long-form-30s` only where each 30-second unit is a coherent sequence.
 
 ## Recommended manual flow
 
-1. Use Story Brain to approve a concept, character psychology, and one episode script at a time.
+1. Use Story Brain to set the production specification and approve an episode-arc plan, character psychology, and one episode script at a time.
 2. Use Character Sheet Designer to create a GPT Image 2.5 prompt for every recurring main character.
 3. Generate and approve the character-sheet images; save them under `character_sheets/`.
 4. Use Cinematic Director with the selected Seedance profile and attach the approved character sheets to the storyboard generation.
@@ -51,6 +49,7 @@ Use `long-form-30s` only where the first 30 seconds are a coherent sequence. It 
 
 ```text
 outputs/DRAMA_001/
+├── production_spec.md
 ├── 00_story_concept.md
 ├── 01_characters.md
 ├── 02_character_sheet_prompts.md
@@ -63,6 +62,7 @@ outputs/DRAMA_001/
 │   └── seedance_prompts.md
 ├── EP_001_02/
 ├── EP_001_03/
+├── EP_001_[NN]/
 └── prompt_pack_final.md
 ```
 

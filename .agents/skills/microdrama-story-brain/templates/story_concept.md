@@ -1,107 +1,37 @@
-# Story Concept Template
+# Story Concept — [Story ID]
 
-Use this template after the user chooses one story idea.
+## Production Specification
 
-## Output Format
+**Episode count:** ...
+**Episode duration:** ... seconds / see `production_spec.md`
 
-```markdown
-# Story Concept
+## Story Foundation
 
-## Judul
-...
+**Judul:** ...
+**Logline:** ...
+**Trope Utama:** ...
+**Trope Pendukung:** ...
+**Core Emotional Promise:** ...
+**Main Conflict:** ...
+**Final Reveal:** ...
+**Final Revenge / Payoff:** ...
 
-## Logline
-...
+## Episode Arc Plan
 
-## Trope Utama
-...
+### Episode 1 — [Function]
 
-## Trope Pendukung
-...
+**Duration:** ... seconds
+**Ringkasan:** ...
+**Key Beats:** ...
+**Ending:** curiosity / cliffhanger / payoff
 
-## Core Emotional Promise
-...
+### Episode [N] — [Function]
 
-## Main Conflict
-...
+Repeat through the configured final episode.
 
-## Final Reveal
-...
+## Arc Rules
 
-## Final Revenge / Payoff
-...
-
----
-
-# Episode Breakdown
-
-## Episode 1 — Hook + Humiliation
-**Ringkasan:**  
-...
-
-**Beat 1:**  
-...
-
-**Beat 2:**  
-...
-
-**Beat 3:**  
-...
-
-**Beat 4:**  
-...
-
-**Mini Cliffhanger:**  
-...
-
----
-
-## Episode 2 — Conflict + Mystery
-**Ringkasan:**  
-...
-
-**Beat 1:**  
-...
-
-**Beat 2:**  
-...
-
-**Beat 3:**  
-...
-
-**Beat 4:**  
-...
-
-**Major Cliffhanger:**  
-...
-
----
-
-## Episode 3 — Reveal + Revenge + Payoff
-**Ringkasan:**  
-...
-
-**Beat 1:**  
-...
-
-**Beat 2:**  
-...
-
-**Beat 3:**  
-...
-
-**Beat 4:**  
-...
-
-**Final Payoff:**  
-...
-```
-
-## Required Rules
-
-- Do not write the full scripts yet unless the user asks.
-- Keep the concept simple, emotional, and cinematic-ready.
-- Episode 1 must create curiosity.
-- Episode 2 must escalate mystery and conflict.
-- Episode 3 must deliver reveal, revenge, and payoff.
-- Use Bahasa Indonesia.
+- For the default three-episode plan: Hook + Humiliation → Conflict + Mystery → Reveal + Revenge + Payoff.
+- For one episode, compress hook through payoff.
+- For two episodes, make Episode 1 an escalation/cliffhanger and Episode 2 the payoff.
+- For more than three episodes, use the middle episodes to escalate mystery and reversals while preserving the final reveal/payoff.

@@ -5,19 +5,19 @@ description: Convert approved microdrama scripts and character references into m
 
 # Microdrama Cinematic Director
 
-Transform an approved approximately 45-second episode into visual assets for manual production. Preserve the script and approved character identity.
+Transform an approved episode of its configured duration into visual assets for manual production. Preserve the script and approved character identity.
 
 ## Select a production profile
 
 Ask for the profile when it is not supplied:
 
-| Profile | Model | Generation units per 45s episode |
+| Profile | Model | Unit rule |
 | --- | --- | --- |
-| `legacy-15s` | Seedance 2.0 | 15s + 15s + 15s |
-| `controlled-15s` | Seedance 2.5 | 15s + 15s + 15s |
-| `long-form-30s` | Seedance 2.5 | 30s + 15s |
+| `legacy-15s` | Seedance 2.0 | One 15s unit for every 15 seconds of the episode |
+| `controlled-15s` | Seedance 2.5 | One 15s unit for every 15 seconds of the episode |
+| `long-form-30s` | Seedance 2.5 | Maximize 30s units; use one final 15s unit when required |
 
-Do not infer arbitrary durations. `long-form-30s` is appropriate only for a coherent 30-second dramatic sequence; use a 15-second profile where scenes or control requirements change rapidly.
+Require a positive episode duration divisible by 15. Do not round an unsupported duration. `long-form-30s` is appropriate only for coherent 30-second dramatic sequences; use a 15-second profile where scenes or control requirements change rapidly. Read `production_spec.md` before planning, and calculate units from each episode’s own duration.
 
 ## Required outputs
 

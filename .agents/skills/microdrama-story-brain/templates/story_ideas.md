@@ -33,7 +33,7 @@ Use this template when generating 10 microdrama story ideas.
 ## Required Rules
 
 - Generate exactly 10 ideas unless the user asks for a different number.
-- Each idea must be suitable for 3 episodes.
+- Each idea must be suitable for the configured episode count; default to 3 when no count is supplied.
 - Each idea must be dramatic, emotional, and curiosity-driven.
 - Avoid ideas that are too similar to each other.
 - Use Bahasa Indonesia.

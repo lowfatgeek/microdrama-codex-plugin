@@ -10,6 +10,7 @@ Generate and approve `liana_reference.png` and `bu_ratna_reference.png` from `02
 
 ## Episode Production Package
 
+- Production specification: `production_spec.md`
 - Script: `EP_001_01/script.md`
 - Generation plan: `EP_001_01/generation_plan.md`
 - Shot plan: `EP_001_01/shot_plan.md`

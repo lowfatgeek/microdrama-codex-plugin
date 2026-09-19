@@ -11,16 +11,18 @@ Organize approved materials into clean copy-paste-ready Markdown. Preserve creat
 
 - story concept and character psychology;
 - GPT Image 2.5 character-sheet prompts, approved reference filenames, and any missing-reference warning;
-- each episode’s script, generation plan, shot plan, storyboard/sequence-board prompts, and Seedance prompts;
+- `production_spec.md`, then each configured episode’s script, generation plan, shot plan, storyboard/sequence-board prompts, and Seedance prompts;
 - manual production and review checklists.
 
 ## Model-aware QA
 
-Validate the selected production profile, not a fixed three-block rule:
+Validate the production specification and selected profile, not a fixed three-block rule:
 
-- `legacy-15s` and `controlled-15s`: three 15-second units;
-- `long-form-30s`: a 30-second unit followed by a 15-second unit;
-- total episode duration approximately 45 seconds;
+- every configured episode exists and has a script;
+- every duration is a positive multiple of 15 seconds;
+- `legacy-15s` and `controlled-15s`: `duration ÷ 15` units;
+- `long-form-30s`: maximum 30-second units and one final 15-second unit if required;
+- calculated total prompt count matches the total number of units across all episodes;
 - every unit has a matching board and video prompt;
 - panel count matches planned shots;
 - recurring main characters have approved sheets, or the pack clearly reports the fallback risk;
