@@ -90,7 +90,7 @@ Use GPT Image 2.5 for character sheets and storyboard/sequence boards. Prompts m
 
 ### Seedance
 
-Every Seedance prompt must state the selected model/profile, duration, vertical 9:16, image-to-video, sound-on, primary visual reference, timed visual progression, Indonesian dialogue/narration, ambience, music mood, and relevant action-synced SFX. It must not introduce events, characters, locations, or props outside the approved material.
+Every Seedance prompt must use the canonical section order: opening metadata/reference paragraph; `IDENTITY AND VOICE LOCKS`; `SETTING`; `STARTING CONTINUITY`; `TIMED VISUAL PLAN — local clip time`; `DIALOGUE / AUDIO TIMING — Indonesian, preserve every line verbatim`; `AMBIENCE AND MUSIC`; `ACTION-SYNCED SFX`; and `ENDING CONTINUITY`. It must state the selected model/profile, exact duration, vertical 9:16, image-to-video, sound-on, primary visual reference, timed visual progression, Indonesian dialogue/narration, ambience, music mood, relevant action-synced SFX, and continuity constraints. It must not introduce events, characters, locations, or props outside the approved material.
 
 ## QA gates
 

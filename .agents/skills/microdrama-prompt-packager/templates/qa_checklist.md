@@ -9,6 +9,7 @@
 - [ ] Each unit has a shot plan, matching board, and matching Seedance prompt.
 - [ ] Board panel count matches shot count.
 - [ ] Each board panel has one correct visible shot time-range label and no other board text.
-- [ ] Every video prompt states model, profile, duration, 9:16, image-to-video, sound-on, dialogue/narration, and audio direction.
+- [ ] Every video prompt uses the canonical Seedance section order: metadata/reference, identity and voice locks, setting, starting continuity, timed visual plan, dialogue/audio timing, ambience/music, action-synced SFX, and ending continuity.
+- [ ] Every video prompt states model, profile, exact duration, 9:16, image-to-video, sound-on, dialogue/narration, and audio direction; approved dialogue is reproduced verbatim with no added or omitted words.
 - [ ] Character, wardrobe, setting, emotion, and audio remain continuous.
 - [ ] Total storyboard and Seedance prompt counts equal the total generation-unit count across all episodes.
